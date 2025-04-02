@@ -22,7 +22,9 @@
 
 <br>
 
-🌱 Currently learning: growing my skills in front-end best practices, SQL, and component-based design.
+🌱 Currently learning: 
+
+Growing my skills in front-end best practices, SQL, and component-based design.
 
 <br>
 
