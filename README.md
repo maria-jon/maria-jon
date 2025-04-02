@@ -8,7 +8,6 @@
 💡 I'm especially interested in:
 - Accessibility (a11y) ♿
 - Thoughtful design & UI/UX 🎨
-- Clean, maintainable code 🧼
 
 <br>
 
