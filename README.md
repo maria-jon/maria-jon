@@ -7,6 +7,7 @@
 
 💡 I'm especially interested in:
 - Accessibility (a11y) ♿
+- Responsiveness & usability
 - Thoughtful design & UI/UX 🎨
 
 <br>
@@ -24,7 +25,7 @@
 
 🌱 Currently learning: 
 
-Growing my skills in front-end best practices, SQL, and component-based design.
+Growing my skills in front-end best practices, MySQL, and component-based design.
 
 <br>
 
