@@ -25,7 +25,7 @@
 
 🌱 Currently learning: 
 
-Growing my skills in front-end best practices, MySQL, and component-based design.
+Growing my skills in front-end best practices, React, and component-based design.
 
 <br>
 
